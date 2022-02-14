@@ -65,3 +65,5 @@ echo "Done"
 sudo chmod a+x myscript.sh == дает привилегию чтоб все могли запускать
 ./myscript.sh == запускает скрипт
 bash mycript.sh == запускает скрипт если привилегии нет
+
+test string
