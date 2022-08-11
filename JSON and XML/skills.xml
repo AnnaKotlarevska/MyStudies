@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about_me>
+    <!--My future skills-->
+    <teory>what is testing; bug reports; documentation; types; methods; areas of testing; SDLC; STLC</teory>
+    <web_testing>
+        <client-server_architecture>HTTP Methods of requests to the server; HTTP server response codes; Structures of HTTP requests and responses</client-server_architecture>
+        <data_types>JSON; XML</data_types>
+        <postman>API testing; JS; API autotests</postman>
+        <sniffing_traffic>Charles; Fiddler</sniffing_traffic>
+        <dev_tools>Google Chrome; FireFox</dev_tools>
+    </web_testing>
+    <mobile_testing>
+        <guidelines>OS; Android</guidelines>
+        <building_applications>XCode; Android Studio</building_applications>
+        <sniffing_traffic>Charles; Fiddler</sniffing_traffic>
+    </mobile_testing>
+    <command_line>
+        <linux>copying; creating; viewing; moving files on servers without a graphical interface; basics of bash scripting, automation of routine tasks on the server</linux>
+        <bash>scripting; automation of routine tasks on the server</bash>
+    </command_line>
+    <sql_basics>Create; Delete; Drop; Insert; Into; Select; From; Where; Join"</sql_basics>
+    <database>
+        <postgres>installation; configuration; use</postgres>
+        <non-relational_redis>installation; configuration; use</non-relational_redis>
+    </database>
+    <other>logs; vpn; proxy; Jmeter; Scrum; Python"</other>
+</about_me>
